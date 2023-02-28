@@ -17,7 +17,7 @@ body {
 }
 
 body > .iceberg {
-  background-image: url('/img/iceberg.png');
+  background-image: url('../img/iceberg.png');
   height: 194px;
   background-repeat: no-repeat;
   background-position: center;
