@@ -1,0 +1,26 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+body {
+  height: 100vh;
+}
+
+.sky {
+  height: 50vh;
+  background-color: #b3f0ff;
+}
+
+.ocean {
+  background-color: #002699;
+  height: 50vh;
+}
+
+body > .iceberg {
+  background-image: url('/img/iceberg.png');
+  height: 194px;
+  background-repeat: no-repeat;
+  background-position: center;
+  position: relative;
+  bottom: 427px;
+}
